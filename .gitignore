@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO / Ultralytics outputs
+runs/
+*.pt
+*.onnx
+
+# Data (keep data out of repo)
+data/
+datasets/
+
+# OS
+.DS_Store
+Thumbs.db
